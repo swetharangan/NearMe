@@ -1,4 +1,4 @@
-# Ex04 Places Around Me
+![1](https://github.com/Ragavikrishnan/NearMe/assets/144870428/0da12663-a1fb-4453-b721-9027cc4bcf64)# Ex04 Places Around Me
 ## Date: 22.11.2023
 
 ## AIM
@@ -25,7 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
-'''
+```
 map.html
 
 <html>
@@ -180,15 +180,23 @@ a story, and every sunrise brings a promise of another day steeped in the charm 
 </p>
 </body>
 </html>
-'''
+```
 
-## OUTPUT
-!![Alt text](<2.home town.png>)
-![Alt text](<2.home town.png>)
-![Alt text](3.arunthavai.png)
-![Alt text](4.kachimailur.png)
-![Alt text](5.shri.png)
-![Alt text](6.eb.png)
+# OUTPUT
+
+![1](https://github.com/Ragavikrishnan/NearMe/assets/144870428/633475b8-8d38-4d5a-8a21-c8cef921ad40)
+
+![2 home town](https://github.com/Ragavikrishnan/NearMe/assets/144870428/295c2068-7569-4b59-82d9-4c0a1f600329)
+
+![3 arunthavai](https://github.com/Ragavikrishnan/NearMe/assets/144870428/0f4def8a-7697-476c-acd7-64d888ed4f12)
+
+![4 kachimailur](https://github.com/Ragavikrishnan/NearMe/assets/144870428/2be10568-29d9-467f-97fb-16147c4fe3b4)
+
+![5 shri](https://github.com/Ragavikrishnan/NearMe/assets/144870428/fd40ae43-ba25-492c-8161-29ad549fc154)
+
+![6 eb](https://github.com/Ragavikrishnan/NearMe/assets/144870428/0bc0444d-d61f-4e3f-aaec-2dda9c255f0f)
+
+
 
 
 ## RESULT
