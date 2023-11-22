@@ -1,4 +1,4 @@
-![1](https://github.com/Ragavikrishnan/NearMe/assets/144870428/0da12663-a1fb-4453-b721-9027cc4bcf64)# Ex04 Places Around Me
+# Ex04 Places Around Me
 ## Date: 22.11.2023
 
 ## AIM
